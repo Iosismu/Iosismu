@@ -1,5 +1,6 @@
 <div align = "center">
 <h1>😊 FRONT-END DEVELOPER 😊</h1>
+ </div>
 Hello, I'm Seong Bin<br>
 I'm really falling in love with Front-End Development<br>
 Because i can visually see the results that i made it.
@@ -22,6 +23,6 @@ Because i can visually see the results that i made it.
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-</div>
+
 
 <br><br>
