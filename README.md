@@ -1,7 +1,7 @@
 <div align = "center">
 
 <br><br>
-<h1><strong>😊 FRONT-END DEVELOPER 😊</strong><h1>
+<h1><strong>😊 FRONT-END DEVELOPER 😊</strong></h1>
 Hello, I'm Seong Bin<br>
 I'm really falling in love with Front-End Development<br>
 Because i can visually see the results that i made it.
