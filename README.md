@@ -6,10 +6,10 @@
 
 <div align="center">
 
-### About
-  *Hello, I'm Seong Bin
-  *I'm really falling in love with Front-End Development<br>
-  *Because i can visually see the results That i developed
+### 📋About
+  Hello, I'm Seong Bin
+  I'm really falling in love with Front-End Development<br>
+  Because i can visually see the results That i developed
 
 <br>
 
