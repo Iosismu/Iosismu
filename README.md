@@ -6,7 +6,7 @@
 
 <div align = "center">
 
-<br><br>
+
 Hello, I'm Seong Bin<br>
 I'm really falling in love with Front-End Development<br>
 Because i can visually see the results that i made it.
