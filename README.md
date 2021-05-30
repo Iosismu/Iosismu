@@ -4,7 +4,7 @@
   
 </h1>
 
-<div align = "center">
+
 
 
 Hello, I'm Seong Bin<br>
@@ -29,6 +29,6 @@ Because i can visually see the results That i developed
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-</div>
+
 
 <br><br>
