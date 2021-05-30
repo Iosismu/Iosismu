@@ -1,6 +1,6 @@
 <h1 align="center">
   
-  Hello😆, I'm Developer Jaehyeon
+ 😊 FRONT-END DEVELOPER 😊
   
 </h1>
 
